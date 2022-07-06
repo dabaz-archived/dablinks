@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>DabAZ - Links</title>
+  <link rel="icon" href="./img/logo.svg">
+  <link rel="stylesheet" href="./index.css" />
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r121/three.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vanta@latest/dist/vanta.birds.min.js"></script>
+  <script>
+    window.addEventListener('DOMContentLoaded', () => {
+      VANTA.BIRDS({
+        el: "#vanta",
+        mouseControls: true,
+        touchControls: true,
+        gyroControls: false,
+        minHeight: 200.00,
+        minWidth: 200.00,
+        scale: 1.00,
+        scaleMobile: 1.00,
+        color2: 0xff00f0,
+        wingSpan: 40.00,
+        separation: 100.00,
+        alignment: 77.00,
+        cohesion: 5.00,
+        quantity: 1.00,
+        backgroundAlpha: 0.0
+      })
+
+      setTimeout(() => {
+        const main = document.querySelector('main')
+        main.style.opacity = 1
+        main.style.filter = 'blur(0px)'
+      }, 1000)
+      
+    })
+  </script>
+</head>
+<body>
+  <!--<video autoplay muted loop playsinline>
+    <source src="./img/bg.mp4" type="video/mp4; codecs=hvc1">
+    <source src="./img/bg.webm" type="video/webm; codecs=vp9">
+  </video>-->
+  <div id="vanta"></div>
+  <main>
+    <header>
+      <img src="./img/dabaz.jpg" />
+      <h1>@DabAZ</h1>
+    </header>
+    <ul>
+      <li>
+        <a href="https://dabaz.vercel.app/" target="_blank">
+          <img src="./img/home.svg" alt="Homepage" width="20" />
+          Official Website
+        </a>
+      </li>
+      <li>
+        <a href="https://twitter.com/dabaz_official/" target="_blank">
+          <img src="./img/twitter.svg" alt="Twitter" width="20" />
+          Twitter
+        </a>
+      </li>
+      <li>
+        <a href="https://instagram.com/dabaz_official/" target="_blank">
+          <img src="./img/instagram.svg" alt="Instagram" width="20" />
+          Instagram
+        </a>
+      </li>
+      <li>
+        <a href="https://github.com/dabaz-official/" target="_blank">
+          <img src="./img/github.svg" alt="GitHub" width="20" />
+          GitHub
+        </a>
+      </li>
+      <li>
+        <a href="https://open.spotify.com/artist/1KmtWPNNBJw4spLrQkPrXQ?si=gfzoRvEUTTSt8Nj9a-wveg" target="_blank">
+          <img src="./img/spotify.svg" alt="Spotify" width="20" />
+          Spotify
+        </a>
+      </li>
+    </ul>
+  </main>
+</body>
+</html>

@@ -1,12 +1,9 @@
-@font-face {
-  font-family: SF Pro Display Regular;
-  src: url(./fonts/SF-Pro-Display-Regular.otf);
-}
+@import url('https://fonts.googleapis.com/css2?family=Inter+Tight:wght@300;400;500;600;700&display=swap');
 
 body, html {
   margin: 0;
   padding: 0;
-  font-family: SF Pro Display Regular, sans-serif;
+  font-family: 'Inter Tight', sans-serif;
   color: #FFF;
 }
 
@@ -92,4 +89,8 @@ ul > li > a {
 a {
   color: black;
   text-decoration: none;
+}
+
+a > p {
+  text-align: center;
 }

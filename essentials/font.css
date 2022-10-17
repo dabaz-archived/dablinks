@@ -1,0 +1,17 @@
+@font-face {
+  font-family: Satoshi;
+  src: url(fonts/Satoshi-Regular.ttf);
+}
+
+@font-face {
+  font-family: Satoshi-Bold;
+  src: url(fonts/Satoshi-Bold.ttf);
+}
+
+html, body {
+  font-family: Satoshi
+}
+
+.font-bold {
+  font-family: Satoshi-Bold;
+}

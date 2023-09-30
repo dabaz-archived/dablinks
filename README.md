@@ -1,8 +1,5 @@
 # dablinks
-Inspired by Linktree
-
-## Live Preview
-[**DabLink**](http://www.dabazofficial.com/)
+Inspired by [Linktree](https://linktr.ee)
 
 ## Ingredients
 **HTML**
@@ -11,11 +8,10 @@ Inspired by Linktree
 
 ## Want to work with me?
 
-You can send me an [E-mail](mailto:dieboldhan123@gmail.com).
+You can send me an [E-mail](mailto:dabazofficial@gmail.com).
 
 You can also contact me via 
-- [Instagram](https://www.instagram.com/dabaz_luvs_hot_girls/)
-- [Twitter](https://twitter.com/dab_az/)
+- [Instagram](https://www.instagram.com/dabaz_official/)
+- [Twitter](https://twitter.com/dabaz_official/)
 - [LinkedIn (InCareer)](https://www.linkedin.cn/incareer/in/diebold-dai-816814177)
-- [Personal Website](https://dabaz.vercel.app)
-- [DabLinks](http://dabazofficial.com)
+- [Personal Website](https://dabaz.me)

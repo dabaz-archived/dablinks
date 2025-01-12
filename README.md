@@ -8,10 +8,10 @@ Inspired by [Linktree](https://linktr.ee)
 
 ## Want to work with me?
 
-You can send me an [E-mail](mailto:dabazofficial@gmail.com).
+You can send me an [E-mail](mailto:hi@dabaz.me).
 
 You can also contact me via 
 - [Instagram](https://www.instagram.com/dabaz_official/)
-- [Twitter](https://twitter.com/dabaz_official/)
-- [LinkedIn (InCareer)](https://www.linkedin.cn/incareer/in/diebold-dai-816814177)
-- [Personal Website](https://dabaz.me)
+- [X](https://x.com/dabaz_official/)
+- [LinkedIn](https://www.linkedin.com/in/diebold-dai/)
+- [Website](https://dabaz.me)
